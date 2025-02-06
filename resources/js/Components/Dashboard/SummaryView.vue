@@ -15,9 +15,9 @@
                                 </div>
                             </div>
                             <div class="col-3 col-lg-4 col-md-4 col-sm-3 text-end">
-                                <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
+                                <!-- <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
                                     <img alt="" class="w-100 " src="../../Assets/img/icon.svg"/>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -37,9 +37,9 @@
                                 </div>
                             </div>
                             <div class="col-3 col-lg-4 col-md-4 col-sm-3 text-end">
-                                <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
+                                <!-- <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
                                     <img alt="" class="w-100 " src="../../Assets/img/icon.svg"/>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -59,9 +59,9 @@
                                 </div>
                             </div>
                             <div class="col-3 col-lg-4 col-md-4 col-sm-3 text-end">
-                                <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
+                                <!-- <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
                                     <img alt="" class="w-100 " src="../../Assets/img/icon.svg"/>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -81,9 +81,9 @@
                                 </div>
                             </div>
                             <div class="col-3 col-lg-4 col-md-4 col-sm-3 text-end">
-                                <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
+                                <!-- <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
                                     <img alt="" class="w-100 " src="../../Assets/img/icon.svg"/>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -104,9 +104,9 @@
                                 </div>
                             </div>
                             <div class="col-3 col-lg-4 col-md-4 col-sm-3 text-end">
-                                <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
+                                <!-- <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
                                     <img alt="" class="w-100 " src="../../Assets/img/icon.svg"/>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -127,9 +127,9 @@
                                 </div>
                             </div>
                             <div class="col-3 col-lg-4 col-md-4 col-sm-3 text-end">
-                                <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
+                                <!-- <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
                                     <img alt="" class="w-100 " src="../../Assets/img/icon.svg"/>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -150,9 +150,9 @@
                                 </div>
                             </div>
                             <div class="col-3 col-lg-4 col-md-4 col-sm-3 text-end">
-                                <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
+                                <!-- <div class="icon icon-shape bg-success shadow-sm float-end rounded-3">
                                     <img alt="" class="w-100 " src="../../Assets/img/icon.svg"/>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

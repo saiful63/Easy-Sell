@@ -8,9 +8,9 @@
             </div>
         </nav>
         <div id="sideNav" class="side-nav-open">
-            <div class="side-nav-top text-center">
+            <!-- <div class="side-nav-top text-center">
                 <img alt="" class="side-nav-logo" src="../Assets/img/logo.svg" />
-            </div>
+            </div> -->
             <Link href="/DashboardPage" class="side-bar-item">
                 <span class="side-bar-item-icon"><i class="fa fa-tachometer-alt text-green"/></span>
                 <span class="side-bar-item-caption">Dashboard</span>

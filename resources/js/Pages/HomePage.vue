@@ -2,7 +2,7 @@
 <template>
     <div class="container">
         <div class="row">
-            <div class="col-md-12 col-lg-12">
+            <div class="col-md-6 col-lg-6 mrg">
                 <div class="card animated fadeIn w-100 p-3">
                     <div class="card-body">
                         <h4>Start selling</h4>
@@ -25,4 +25,10 @@
 <script setup>
 import{Link} from '@inertiajs/vue3'
 </script>
+<style scoped>
+.mrg{
+    margin: 0 auto;
+    margin-top: 25vh;
+}
+</style>
 

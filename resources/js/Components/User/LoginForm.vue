@@ -13,9 +13,9 @@
                             <br/>
                             <button type="submit"  class="btn w-100 btn-success">Login</button>
                             <hr/>
-                            <div>
-                                <Link  href="/RegistrationPage" class="btn mt-3 w-50  btn-success">Sign Up </Link>
-                                <Link  href="/SendOtpPage" class="btn mt-3 w-50  btn-success">Forget Password</Link>
+                            <div class="btn_div">
+                                <Link  href="/RegistrationPage" class="btn mt-3  btn-success sign_up">Sign Up </Link>
+                                <Link  href="/SendOtpPage" class="btn mt-3  btn-success">Forget Password</Link>
                             </div>
                         </div>
                     </form>
@@ -51,5 +51,12 @@ function submit(){
 </script>
 
 <style scoped>
-
+.btn_div{
+    font-size: 15px;
+    width: 100%;
+}
+.sign_up{
+    margin-right: 1em;
+    width: 40%;
+}
 </style>
